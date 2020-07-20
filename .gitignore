@@ -1,0 +1,5 @@
+.DS_Store
+*ipynb_checkpoint*
+neuralcoref/*
+GoogleNews-vectors-negative300.bin.gz
+.vscode
